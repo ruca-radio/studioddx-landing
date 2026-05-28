@@ -2,50 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ruca-radio.github.io/studioddx-landing/</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://studioddx.gumroad.com</loc>
-    <lastmod>2026-05-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://studioddx.gumroad.com/l/ultimate-ai-prompt-library</loc>
-    <lastmod>2026-05-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://studioddx.gumroad.com/l/ai-workflow-patterns</loc>
-    <lastmod>2026-05-26</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://studioddx.gumroad.com/l/vchlhb</loc>
-    <lastmod>2026-05-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://studioddx.gumroad.com/l/free-ai-prompt-sample-pack</loc>
-    <lastmod>2026-05-26</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://gist.github.com/ruca-radio/5961d766f600a850544c070b680cf692</loc>
-    <lastmod>2026-05-26</lastmod>
+    <loc>https://studioddx.gumroad.com/l/ai-workflow-patterns</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://gist.github.com/ruca-radio/0127313f3b0f642d4ff1f52a7b0291b4</loc>
-    <lastmod>2026-05-26</lastmod>
+    <loc>https://studioddx.gumroad.com/l/n8n-workflow-mega-pack</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://studioddx.gumroad.com/l/free-ai-prompt-sample-pack</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://studioddx.gumroad.com/l/complete-ai-creator-bundle</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>

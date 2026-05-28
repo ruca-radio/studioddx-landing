@@ -3,8 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>14,931 Premium AI Prompts - Ultimate AI Prompt Library | StudioDDx</title>
-    <meta name="description" content="The most comprehensive collection of 14,931 hand-curated AI prompts across 13 categories. For ChatGPT, Claude, Gemini, Midjourney and more. Instant download.">
+    <title>StudioDDx — 14,931 Premium AI Prompts, System Configs & Workflow Templates</title>
+    <meta name="description" content="Premium AI prompt libraries, ChatGPT system personality configs, n8n workflow mega-packs, and AI workflow pattern templates. Instant digital download. For ChatGPT, Claude, Gemini and more.">
+    <meta name="keywords" content="AI prompts, prompt library, ChatGPT prompts, system prompts, n8n workflows, AI workflow templates, prompt engineering, AI automation">
+    <!-- Open Graph -->
+    <meta property="og:title" content="StudioDDx — Premium AI Prompt Libraries & Workflow Packs">
+    <meta property="og:description" content="14,931 AI prompts, ChatGPT system configs, n8n workflow mega-pack, and 27 AI workflow pattern templates. Instant download.">
+    <meta property="og:url" content="https://ruca-radio.github.io/studioddx-landing/">
+    <meta property="og:type" content="website">
+    <!-- Canonical -->
+    <link rel="canonical" href="https://ruca-radio.github.io/studioddx-landing/">
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0a0a0a; color: #e0e0e0; line-height: 1.6; }
@@ -14,36 +22,163 @@
         .cta-button { display: inline-block; background: #40ba8b; color: #fff; padding: 16px 40px; border-radius: 8px; font-size: 1.2rem; font-weight: 600; text-decoration: none; transition: transform 0.2s; }
         .cta-button:hover { transform: scale(1.05); }
         .code-badge { display: inline-block; background: #ff6b35; color: #fff; padding: 8px 20px; border-radius: 20px; font-weight: bold; margin-top: 15px; font-size: 0.9rem; }
-        .container { max-width: 1000px; margin: 0 auto; padding: 60px 20px; }
+        .code-badge.green { background: #40ba8b; }
+        .container { max-width: 1100px; margin: 0 auto; padding: 60px 20px; }
         h2 { font-size: 2rem; color: #fff; margin-bottom: 30px; text-align: center; }
         .category-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
         .category-card { background: #1a1a2e; border-radius: 12px; padding: 25px; border: 1px solid #2a2a4a; transition: border-color 0.3s; }
         .category-card:hover { border-color: #40ba8b; }
         .category-card h3 { color: #40ba8b; margin-bottom: 10px; }
         .category-card p { color: #8a8a8a; font-size: 0.9rem; }
-        .pricing { display: flex; gap: 30px; justify-content: center; flex-wrap: wrap; margin-top: 40px; }
-        .plan { background: #1a1a2e; border-radius: 16px; padding: 35px; text-align: center; min-width: 280px; border: 1px solid #2a2a4a; }
-        .plan.premium { border-color: #40ba8b; transform: scale(1.05); }
-        .plan h3 { color: #fff; font-size: 1.4rem; }
-        .price { font-size: 2.5rem; color: #40ba8b; font-weight: bold; margin: 15px 0; }
-        .price strike { color: #666; font-size: 1.5rem; margin-right: 10px; }
-        .features { list-style: none; text-align: left; margin: 20px 0; }
-        .features li { padding: 8px 0; color: #b0b0b0; }
+        .pricing { display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 40px; }
+        .plan { background: #1a1a2e; border-radius: 16px; padding: 30px; text-align: center; min-width: 260px; max-width: 320px; flex: 1; border: 1px solid #2a2a4a; }
+        .plan.premium { border-color: #40ba8b; transform: scale(1.02); }
+        .plan h3 { color: #fff; font-size: 1.3rem; }
+        .price { font-size: 2.2rem; color: #40ba8b; font-weight: bold; margin: 15px 0; }
+        .price strike { color: #666; font-size: 1.3rem; margin-right: 8px; }
+        .features { list-style: none; text-align: left; margin: 20px 0; font-size: 0.9rem; }
+        .features li { padding: 6px 0; color: #b0b0b0; }
         .features li::before { content: '✓ '; color: #40ba8b; }
-        .btn { display: block; background: #40ba8b; color: #fff; padding: 14px; border-radius: 8px; text-decoration: none; font-weight: 600; margin-top: 20px; }
-        .free { text-align: center; margin-top: 60px; padding: 40px; background: #1a1a2e; border-radius: 16px; border: 1px dashed #555; }
-        .free h3 { color: #40ba8b; font-size: 1.5rem; }
-        .free .btn { background: #333; }
-        footer { text-align: center; padding: 40px; color: #555; }
-        @media (max-width: 768px) { .hero h1 { font-size: 2rem; } .plan.premium { transform: none; } }
+        .btn { display: block; background: #40ba8b; color: #fff; padding: 12px; border-radius: 8px; text-decoration: none; font-weight: 600; margin-top: 16px; font-size: 0.95rem; }
+        .btn.secondary { background: #2a2a4a; }
+        .btn.small { padding: 8px; font-size: 0.85rem; }
+        .coupon-tag { font-size: 0.75rem; color: #ff6b35; margin-top: 8px; display: block; }
+        .free-section { text-align: center; margin-top: 60px; padding: 40px; background: #1a1a2e; border-radius: 16px; border: 1px dashed #555; }
+        .free-section h3 { color: #40ba8b; font-size: 1.5rem; }
+        .free-section .btn { background: #333; display: inline-block; padding: 12px 40px; }
+        footer { text-align: center; padding: 40px; color: #555; font-size: 0.85rem; }
+        footer a { color: #40ba8b; }
+        .sku-note { font-size: 0.75rem; color: #666; margin-top: 5px; }
+        @media (max-width: 768px) { .hero h1 { font-size: 2rem; } .plan.premium { transform: none; } .plan { min-width: 260px; } }
     </style>
 </head>
 <body>
     <div class="hero">
-        <h1>📚 The Ultimate AI Prompt Library</h1>
-        <p><strong>14,931 hand-curated prompts</strong> across 13 categories. For ChatGPT, Claude, Gemini, Midjourney, and every major AI platform.</p>
-        <a href="https://studioddx.gumroad.com/l/ultimate-ai-prompt-library" class="cta-button">Buy Now — $14.99</a>
-        <div><span class="code-badge">Use code LAUNCH20 → only $11.99 🎉</span></div>
+        <h1>🚀 StudioDDx — Premium AI Resources</h1>
+        <p><strong>14,931 prompts</strong> · <strong>3,763 system configs</strong> · <strong>12,318 n8n workflows</strong> · <strong>27 workflow patterns</strong><br>Instant digital download. For ChatGPT, Claude, Gemini, and more.</p>
+        <a href="#products" class="cta-button">Browse All Products ↓</a>
+        <div><span class="code-badge">🔥 Free Sample Pack Available — 50 Prompts, Zero Commitment</span></div>
+    </div>
+
+    <div class="container" id="products">
+        <h2>📦 All Products</h2>
+        <div class="pricing">
+            <div class="plan">
+                <h3>🎁 Free AI Prompt Sample Pack</h3>
+                <div class="price">$0.00</div>
+                <ul class="features">
+                    <li>50 premium prompts</li>
+                    <li>Across all 13 categories</li>
+                    <li>See the quality firsthand</li>
+                    <li>Instant download (.md)</li>
+                </ul>
+                <a href="https://studioddx.gumroad.com/l/free-ai-prompt-sample-pack" class="btn">Download Free →</a>
+            </div>
+
+            <div class="plan">
+                <h3>🤖 ChatGPT System & Personality Prompts</h3>
+                <div class="price">$9.99</div>
+                <ul class="features">
+                    <li>3,763+ system & persona configs</li>
+                    <li>Role frameworks, writing styles</li>
+                    <li>Chief of Staff persona included</li>
+                    <li>GPT Store ready</li>
+                </ul>
+                <a href="https://studioddx.gumroad.com/l/vchlhb" class="btn">Buy Now →</a>
+                <span class="coupon-tag">Code <strong>LAUNCH25</strong> → $7.49 (25% off)</span>
+            </div>
+
+            <div class="plan premium">
+                <h3>⭐ Ultimate AI Prompt Library</h3>
+                <div class="price"><strike>$14.99</strike> $7.50</div>
+                <ul class="features">
+                    <li>14,931 prompts total</li>
+                    <li>All 13 categories</li>
+                    <li>Clean .md format, organized</li>
+                    <li>All AI platforms supported</li>
+                </ul>
+                <a href="https://studioddx.gumroad.com/l/ultimate-ai-prompt-library" class="btn">Buy Now — $7.50 →</a>
+                <span class="coupon-tag">🔥 <strong>BUYME50</strong> = 50% off (only 5 left at this price!)</span>
+            </div>
+
+            <div class="plan">
+                <h3>💬 Contextual AI Prompts</h3>
+                <div class="price">$9.99</div>
+                <ul class="features">
+                    <li>8,501 context-aware prompt templates</li>
+                    <li>Situation-specific prompting</li>
+                    <li>Multi-step reasoning chains</li>
+                    <li>Decision framework templates</li>
+                </ul>
+                <a href="https://studioddx.gumroad.com/l/contextual-ai-prompts" class="btn">Buy Now →</a>
+                <span class="coupon-tag">Code <strong>LAUNCH20</strong> → $7.99</span>
+            </div>
+
+            <div class="plan">
+                <h3>🔓 Leaked GPT System Prompts</h3>
+                <div class="price">$14.99</div>
+                <ul class="features">
+                    <li>1,163 configs: GPT Store, OpenAI & more</li>
+                    <li>Real system prompts from production</li>
+                    <li>Study how the pros do it</li>
+                    <li>Adapt for your own GPTs</li>
+                </ul>
+                <a href="https://studioddx.gumroad.com/l/leaked-gpt-system-prompts" class="btn">Buy Now →</a>
+                <span class="coupon-tag">Code <strong>LAUNCH20</strong> → $11.99</span>
+            </div>
+
+            <div class="plan">
+                <h3>🔧 AI Workflow Patterns — 27 Templates</h3>
+                <div class="price"><strike>$24.99</strike> $14.99</div>
+                <ul class="features">
+                    <li>27 production-ready templates</li>
+                    <li>Content, analysis, dev & business</li>
+                    <li>Frameworks & prompt chains</li>
+                    <li>Reusable pattern libraries</li>
+                </ul>
+                <a href="https://studioddx.gumroad.com/l/ai-workflow-patterns" class="btn">Buy Now — $14.99 →</a>
+                <span class="coupon-tag">🔥 <strong>FLASH40</strong> = 40% off (only 5 left!)</span>
+            </div>
+
+            <div class="plan">
+                <h3>🔄 n8n Workflow Mega-Pack</h3>
+                <div class="price">$19.99</div>
+                <ul class="features">
+                    <li>12,318 clean workflow JSONs</li>
+                    <li>AI agents, e-commerce, marketing</li>
+                    <li>DevOps, finance, data processing</li>
+                    <li>Import directly into n8n</li>
+                </ul>
+                <a href="https://studioddx.gumroad.com/l/n8n-workflow-mega-pack" class="btn">Buy Now →</a>
+                <span class="coupon-tag">Code <strong>LAUNCH20</strong> → $15.99</span>
+            </div>
+
+            <div class="plan">
+                <h3>📊 Google Ads Scripts Collection</h3>
+                <div class="price">$9.99</div>
+                <ul class="features">
+                    <li>200+ automation scripts</li>
+                    <li>Bid management, reporting</li>
+                    <li>Keyword optimization</li>
+                    <li>Ready to deploy</li>
+                </ul>
+                <a href="https://studioddx.gumroad.com/l/google-ads-scripts-collection" class="btn">Buy Now →</a>
+                <span class="coupon-tag">Code <strong>LAUNCH20</strong> → $7.99</span>
+            </div>
+
+            <div class="plan premium">
+                <h3>📦 Complete AI Creator Bundle</h3>
+                <div class="price"><strike>$34.99</strike> $27.99</div>
+                <ul class="features">
+                    <li>Everything in one bundle</li>
+                    <li>Prompt Lib + System Prompts + Workflows</li>
+                    <li>$49.97 value for $34.99</li>
+                    <li>Best value for serious creators</li>
+                </ul>
+                <a href="https://studioddx.gumroad.com/l/complete-ai-creator-bundle" class="btn">Buy Bundle →</a>
+                <span class="coupon-tag">Code <strong>LAUNCH20</strong> → $27.99</span>
+            </div>
+        </div>
     </div>
 
     <div class="container">
@@ -57,76 +192,30 @@
             <div class="category-card"><h3>💰 Finance & Investing</h3><p>Analysis, research, portfolio management, and financial modeling prompts.</p></div>
             <div class="category-card"><h3>🏥 Health & Wellness</h3><p>Wellness coaching, nutrition guidance, and health research prompts.</p></div>
             <div class="category-card"><h3>🎨 AI Image Generation</h3><p>DALL-E, Midjourney, and Stable Diffusion prompt engineering.</p></div>
-            <div class="category-card"><h3>⚖️ Legal & Documents</h3><p>Contract review, legal research, document drafting, and compliance prompts.</p></div>
+            <div class="category-card"><h3>⚖️ Legal & Documents</h3><p>Contract review, legal research, document drafting, and compliance.</p></div>
             <div class="category-card"><h3>🎭 Midjourney Art</h3><p>Dedicated Midjourney v6 prompts for stunning AI-generated art.</p></div>
-            <div class="category-card"><h3>📱 Social Media</h3><p>Content scheduling, viral hooks, platform-specific copy, and engagement strategies.</p></div>
+            <div class="category-card"><h3>📱 Social Media</h3><p>Content scheduling, viral hooks, platform-specific copy, engagement.</p></div>
             <div class="category-card"><h3>🔧 Utilities & Tools</h3><p>Data extraction, formatting, analysis, and productivity automation.</p></div>
             <div class="category-card"><h3>🌟 Lifestyle</h3><p>Productivity, relationships, travel, cooking, and personal development.</p></div>
         </div>
     </div>
 
     <div class="container">
-        <h2>Choose Your Pack</h2>
-        <div class="pricing">
-            <div class="plan">
-                <h3>🎁 Free Sample Pack</h3>
-                <div class="price">$0</div>
-                <ul class="features">
-                    <li>50 premium prompts</li>
-                    <li>Hand-picked bestsellers</li>
-                    <li>13 categories sampled</li>
-                    <li>Instant download (.md)</li>
-                </ul>
-                <a href="https://studioddx.gumroad.com/l/free-ai-prompt-sample-pack" class="btn">Download Free</a>
-            </div>
-            <div class="plan">
-                <h3>🤖 ChatGPT System Prompts</h3>
-                <div class="price">$9.99</div>
-                <ul class="features">
-                    <li>3,763 system prompts</li>
-                    <li>Personality configurations</li>
-                    <li>Role-playing frameworks</li>
-                    <li>GPT Store ready</li>
-                </ul>
-                <a href="https://studioddx.gumroad.com/l/vchlhb" class="btn">Buy Now</a>
-            </div>
-            <div class="plan premium">
-                <h3>⭐ Ultimate AI Prompt Library</h3>
-                <div class="price"><strike>$14.99</strike> $11.99</div>
-                <ul class="features">
-                    <li>14,931 prompts total</li>
-                    <li>All 13 categories</li>
-                    <li>Clean .md format</li>
-                    <li>All AI platforms supported</li>
-                    <li><strong>Use code: LAUNCH20</strong></li>
-                </ul>
-                <a href="https://studioddx.gumroad.com/l/ultimate-ai-prompt-library" class="btn">Buy Now — $11.99</a>
-            </div>
-            <div class="plan">
-                <h3>🔧 AI Workflow Patterns</h3>
-                <div class="price"><strike>$24.99</strike> $21.24</div>
-                <ul class="features">
-                    <li>27 production templates</li>
-                    <li>Content & analysis workflows</li>
-                    <li>Dev & business patterns</li>
-                    <li><strong>Use code: LAUNCH15</strong></li>
-                </ul>
-                <a href="https://studioddx.gumroad.com/l/ai-workflow-patterns" class="btn">Buy Now — $21.24</a>
-            </div>
-        </div>
-    </div>
-
-    <div class="container">
-        <div class="free">
-            <h3>🎉 Not sure? Start with 50 Free Prompts</h3>
-            <p style="margin: 15px 0; color: #aaa;">Zero commitment. Instant download. See the quality yourself.</p>
-            <a href="https://studioddx.gumroad.com/l/free-ai-prompt-sample-pack" class="btn">Download Free Sample Pack</a>
+        <div class="free-section">
+            <h3>🎉 Start with 50 Free Prompts</h3>
+            <p style="margin: 15px 0; color: #aaa;">Zero commitment. Instant download. See the quality yourself before buying anything.</p>
+            <a href="https://studioddx.gumroad.com/l/free-ai-prompt-sample-pack" class="btn">Download Free Sample Pack →</a>
         </div>
     </div>
 
     <footer>
         <p>StudioDDx — Digital Tools for the AI Era</p>
-        <p><a href="https://studioddx.gumroad.com" style="color: #40ba8b;">Visit Store</a></p>
+        <p>
+            <a href="https://studioddx.gumroad.com">Store</a> · 
+            <a href="https://ruca-radio.github.io/studioddx-landing/">Home</a> · 
+            <a href="https://studioddx.gumroad.com/l/free-ai-prompt-sample-pack">Free Sample</a>
+        </p>
+        <p style="margin-top: 10px; font-size: 0.75rem;">Products: AI prompts | ChatGPT prompts | Claude prompts | Gemini prompts | n8n workflows | Prompt engineering templates | AI workflow patterns</p>
     </footer>
 </body>
 </html>
