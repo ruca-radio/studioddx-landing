@@ -1,69 +1,81 @@
-# StudioDDx — Premium AI Resources
+# 🚀 StudioDDx — Premium AI Prompt Libraries & Digital Tools
 
-[![Visit Store](https://img.shields.io/badge/Store-StudioDDx-40ba8b?style=for-the-badge)](https://studioddx.gumroad.com)
+[![Store](https://img.shields.io/badge/Store-studioddx.gumroad.com-40ba8b?style=for-the-badge)](https://studioddx.gumroad.com)
+[![Free Sample](https://img.shields.io/badge/🎁-Free%20Sample%20Pack-ff6b6b?style=for-the-badge)](https://studioddx.gumroad.com/l/free-ai-prompt-sample-pack)
+[![Top 10 Prompts](https://img.shields.io/badge/📋-Top%2010%20Prompts%20(Gist)-blue?style=for-the-badge)](https://gist.github.com/ruca-radio/aaf81c50d2da21065b2d00b6e118c9b1)
 
-> AI prompt libraries, ChatGPT system prompts, n8n workflows, and workflow pattern templates for builders, marketers, operators, and entrepreneurs.
-
----
-
-## 🚀 Products
-
-### ⭐ Ultimate AI Prompt Library — **$14.99** → **$7.50 with code BUYME50** (limited!)
-**14,931 hand-curated prompts** across 13 categories. For ChatGPT, Claude, Gemini, Midjourney, and more.
-→ [Buy on Gumroad](https://studioddx.gumroad.com/l/ultimate-ai-prompt-library)
-
-### 🤖 ChatGPT System & Personality Prompts — **$9.99**
-3,763 system prompts, personality configs, role-playing frameworks. Includes Chief of Staff persona.
-→ [Buy on Gumroad](https://studioddx.gumroad.com/l/vchlhb)
-
-### 🔧 AI Workflow Patterns — **$24.99** → **$14.99 with code FLASH40** (limited!)
-27 production-grade workflow templates for content, analysis, dev, and business.
-→ [Buy on Gumroad](https://studioddx.gumroad.com/l/ai-workflow-patterns)
-
-### 🔄 n8n Workflow Mega-Pack — **$19.99**
-12,318 clean n8n workflow JSONs across AI agents, e-commerce, marketing, devops, finance, and more.
-→ [Buy on Gumroad](https://studioddx.gumroad.com/l/n8n-workflow-mega-pack)
-
-### 💬 Contextual AI Prompts — **$9.99**
-8,501 context-aware prompt templates with multi-step reasoning chains.
-→ [Buy on Gumroad](https://studioddx.gumroad.com/l/contextual-ai-prompts)
-
-### 🔓 Leaked GPT System Prompts — **$14.99**
-1,163 system prompt configs from GPT Store, OpenAI & more. Study real production prompts.
-→ [Buy on Gumroad](https://studioddx.gumroad.com/l/leaked-gpt-system-prompts)
-
-### 📊 Google Ads Scripts Collection — **$9.99**
-200+ automation scripts for bid management, reporting, and keyword optimization.
-→ [Buy on Gumroad](https://studioddx.gumroad.com/l/google-ads-scripts-collection)
-
-### 📦 Complete AI Creator Bundle — **$34.99** → **$27.99 with code LAUNCH20**
-Everything: Prompt Library + System Prompts + Workflow Patterns. Best value!
-→ [Buy on Gumroad](https://studioddx.gumroad.com/l/complete-ai-creator-bundle)
-
-### 🎁 Free AI Prompt Sample Pack — **$0**
-50 premium prompts, free download, no strings.
-→ [Download Free](https://studioddx.gumroad.com/l/free-ai-prompt-sample-pack)
+> **14,931+ curated, tested AI prompts** — Business, Marketing, Coding, Creative Writing, Finance, Health, Legal, Social Media, Midjourney, Education & more. Clean .md format, instant download, commercial license included.
 
 ---
 
-## 🏷️ Limited-Time Coupon Codes
+## 📋 Featured: Top 10 AI Prompts That Actually Save Time
 
-| Code | Discount | Product | Discounted Price | Uses Left |
-|------|----------|---------|-----------------|-----------|
-| `BUYME50` | **50% off** | Ultimate AI Prompt Library | **$7.50** | 5 🔥 |
-| `FLASH40` | **40% off** | AI Workflow Patterns | **$14.99** | 5 🔥 |
-| `LAUNCH25` | 25% off | ChatGPT System Prompts | **$7.49** | 50 |
-| `LAUNCH20` | 20% off | All other paid products | varies | 50 |
-| `SAMPLE10` | 10% off | All paid products | varies | 100 |
+**[Read the full gist →](https://gist.github.com/ruca-radio/aaf81c50d2da21065b2d00b6e118c9b1)**
 
----
-
-## 📬 Stay Updated
-
-- **Store:** https://studioddx.gumroad.com
-- **GitHub:** https://github.com/ruca-radio/studioddx-landing
-- **Free Sample:** https://studioddx.gumroad.com/l/free-ai-prompt-sample-pack
+Quick hits:
+1. **Meeting Summary Transformer** — transcripts → decisions + action items
+2. **Research Deep-Dive** — comprehensive overview of any topic
+3. **Code Review Partner** — FAANG-level code review
+4. **Content Repurposer** — one post → all platforms
+5. **Executive Summary Generator** — 250 words, conclusion-first
+6. **Eisenhower Decision Framework** — urgency × impact analysis
+7. **Learning Accelerator** — 30-day curriculum builder
+8. **Cold Email Optimizer** — 100-word conversions
+9. **Socratic Tutor** — guided discovery learning
+10. **Negativity Filter** — assumptions, blind spots, counter-arguments
 
 ---
 
-© 2026 StudioDDx. All rights reserved.
+## 🛍️ Products
+
+| Product | Price | Prompts | Best For | Link |
+|---------|-------|---------|----------|------|
+| ⭐ **Ultimate AI Prompt Library** | ~~$14.99~~ **$7.50** | **14,931** | Everything (13 categories) | [Buy →](https://studioddx.gumroad.com/l/ultimate-ai-prompt-library) |
+| 🤖 **ChatGPT System & Personality Prompts** | $9.99 | 3,763 | GPT customization | [Buy →](https://studioddx.gumroad.com/l/vchlhb) |
+| 🔧 **AI Workflow Patterns** | ~~$24.99~~ **$14.99** | 27 templates | Production workflows | [Buy →](https://studioddx.gumroad.com/l/ai-workflow-patterns) |
+| 💬 **Contextual AI Prompts** | $9.99 | 8,501 | Multi-step reasoning | [Buy →](https://studioddx.gumroad.com/l/contextual-ai-prompts) |
+| 🔓 **Leaked GPT System Prompts** | $14.99 | 1,163 | Production prompt study | [Buy →](https://studioddx.gumroad.com/l/leaked-gpt-system-prompts) |
+| 🔄 **n8n Workflow Mega-Pack** | $19.99 | 12,318 JSONs | n8n automation | [Buy →](https://studioddx.gumroad.com/l/n8n-workflow-mega-pack) |
+| 📊 **Google Ads Scripts Collection** | $9.99 | 200+ scripts | Ad automation | [Buy →](https://studioddx.gumroad.com/l/google-ads-scripts-collection) |
+| 📦 **Complete AI Creator Bundle** | ~~$34.99~~ **$27.99** | All above | Best value all-in-one | [Buy →](https://studioddx.gumroad.com/l/complete-ai-creator-bundle) |
+| 🎁 **Free AI Prompt Sample Pack** | **$0** | 50 | Try before you buy | [Free ↓](https://studioddx.gumroad.com/l/free-ai-prompt-sample-pack) |
+
+---
+
+## 🏷️ Active Coupons
+
+| Code | Discount | Product | Price | Remaining |
+|------|----------|---------|-------|-----------|
+| `BUYME50` | **50% OFF** | Ultimate AI Prompt Library | **$7.50** | 5 🔥 |
+| `FLASH40` | **40% OFF** | AI Workflow Patterns | **$14.99** | 5 🔥 |
+| `LAUNCH25` | 25% OFF | ChatGPT System Prompts | $7.49 | 50 |
+| `LAUNCH20` | 20% OFF | Other paid products | varies | 50 |
+| `SAMPLE10` | 10% OFF | All paid products | varies | 100 |
+
+---
+
+## 💡 Why These Prompts?
+
+I've been curating, testing, and refining prompts since the GPT-3 era. Here's what makes these collections different:
+
+1. **Every prompt is tested** — not scraped. I run each one through multiple models.
+2. **Clean formatting** — .md files with clear headings, not messy text dumps.
+3. **Model-agnostic** — works on ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, Copilot.
+4. **Commercial license** — use in client work, products, and services.
+5. **Free updates** — new prompt techniques ship automatically.
+
+---
+
+## 📬 Links
+
+| | |
+|---|---|
+| 🏪 **Store** | https://studioddx.gumroad.com |
+| 🌐 **Landing** | https://github.com/ruca-radio/studioddx-landing |
+| 🎁 **Free Sample** | https://studioddx.gumroad.com/l/free-ai-prompt-sample-pack |
+| 📋 **Top 10 Prompts Gist** | https://gist.github.com/ruca-radio/aaf81c50d2da21065b2d00b6e118c9b1 |
+| 🐦 **X/Twitter** | https://x.com/StudioDDx |
+
+---
+
+*© 2026 StudioDDx. Personal and commercial use. Instant download. Free lifetime updates.*
