@@ -77,7 +77,10 @@ I've been curating, testing, and refining prompts since the GPT-3 era. Here's wh
 || 🤖 **GPT Persona Guide Gist** | https://gist.github.com/ruca-radio/0b5f40995764329f0a04bed54ed75e9a |
 || 🔄 **n8n Workflow Gist** | https://gist.github.com/ruca-radio/6bf1fd4959d660a8f37bb61bbdbdc0d1 |
 || 🔧 **AI Workflow Patterns Gist** | https://gist.github.com/ruca-radio/00c1aada8b42c7331a338f84bb56965a |
-| 🐦 **X/Twitter** | https://x.com/StudioDDx |
+|| 💰 **Salary Playbook Gist** | https://gist.github.com/ruca-radio/040ba9f12fe811fa1cd9b1b685529612 |
+|| ⚡ **Role Prompting Gist** | https://gist.github.com/ruca-radio/d035650bc27a9b1766a13d0918b325a2 |
+|| 📊 **n8n Insights Gist** | https://gist.github.com/ruca-radio/f2da9aa692968d777985eb95d461a25d |
+|| 🐦 **X/Twitter** | https://x.com/StudioDDx |
 
 ---
 

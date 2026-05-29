@@ -108,4 +108,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <!-- New gist May 29 (salary playbook) -->
+  <url>
+    <loc>https://gist.github.com/ruca-radio/040ba9f12fe811fa1cd9b1b685529612</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
