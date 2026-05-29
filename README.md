@@ -31,7 +31,7 @@ Quick hits:
 | Product | Price | Prompts | Best For | Link |
 |---------|-------|---------|----------|------|
 | ⭐ **Ultimate AI Prompt Library** | ~~$14.99~~ **$7.50** | **14,931** | Everything (13 categories) | [Buy →](https://studioddx.gumroad.com/l/ultimate-ai-prompt-library) |
-| 🤖 **ChatGPT System & Personality Prompts** | $9.99 | 3,763 | GPT customization | [Buy →](https://studioddx.gumroad.com/l/vchlhb) |
+|| 🤖 **ChatGPT System & Personality Prompts** | $9.99 | 3,763 | GPT customization | [Buy →](https://studioddx.gumroad.com/l/chatgpt-system-personality-prompts) |
 | 🔧 **AI Workflow Patterns** | ~~$24.99~~ **$14.99** | 27 templates | Production workflows | [Buy →](https://studioddx.gumroad.com/l/ai-workflow-patterns) |
 | 💬 **Contextual AI Prompts** | $9.99 | 8,501 | Multi-step reasoning | [Buy →](https://studioddx.gumroad.com/l/contextual-ai-prompts) |
 | 🔓 **Leaked GPT System Prompts** | $14.99 | 1,163 | Production prompt study | [Buy →](https://studioddx.gumroad.com/l/leaked-gpt-system-prompts) |
