@@ -73,7 +73,9 @@ I've been curating, testing, and refining prompts since the GPT-3 era. Here's wh
 | 🏪 **Store** | https://studioddx.gumroad.com |
 | 🌐 **Landing** | https://github.com/ruca-radio/studioddx-landing |
 | 🎁 **Free Sample** | https://studioddx.gumroad.com/l/free-ai-prompt-sample-pack |
-| 📋 **Top 10 Prompts Gist** | https://gist.github.com/ruca-radio/aaf81c50d2da21065b2d00b6e118c9b1 |
+|| 📋 **Top 10 Prompts Gist** | https://gist.github.com/ruca-radio/aaf81c50d2da21065b2d00b6e118c9b1 |
+|| 🤖 **GPT Persona Guide Gist** | https://gist.github.com/ruca-radio/0b5f40995764329f0a04bed54ed75e9a |
+|| 🔄 **n8n Workflow Gist** | https://gist.github.com/ruca-radio/6bf1fd4959d660a8f37bb61bbdbdc0d1 |
 | 🐦 **X/Twitter** | https://x.com/StudioDDx |
 
 ---

@@ -60,4 +60,14 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://gist.github.com/ruca-radio/6bf1fd4959d660a8f37bb61bbdbdc0d1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gist.github.com/ruca-radio/0b5f40995764329f0a04bed54ed75e9a</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
