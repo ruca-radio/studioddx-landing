@@ -102,4 +102,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <!-- New gist May 29 (role prompting technique) -->
+  <url>
+    <loc>https://gist.github.com/ruca-radio/d035650bc27a9b1766a13d0918b325a2</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
