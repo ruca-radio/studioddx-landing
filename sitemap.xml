@@ -70,4 +70,25 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <!-- New gists May 29-30 -->
+  <url>
+    <loc>https://gist.github.com/ruca-radio/114a56b5d4acb45ca15a00ad842902e7</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gist.github.com/ruca-radio/f86be0c1ae0ec29abda590c59b7ee946</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gist.github.com/ruca-radio/3be1dc64e3ba4e6a53c404be13d9977a</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gist.github.com/ruca-radio/fd62ec11a8d0505d28a3e20023caa91d</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
