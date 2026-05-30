@@ -126,4 +126,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <!-- New gist May 30 — AI Agent Orchestrator Patterns -->
+  <url>
+    <loc>https://gist.github.com/ruca-radio/fdde6394da800d8707f27b527d074556</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- New gist May 30 — n8n Data Insights -->
+  <url>
+    <loc>https://gist.github.com/ruca-radio/2ffe10e8b3301f6dcfbde8aaaf454290</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- New gist May 30 — Bundle vs Individual -->
+  <url>
+    <loc>https://gist.github.com/ruca-radio/b0da69259243d071b14258b07fbdab38</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>

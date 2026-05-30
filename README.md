@@ -80,8 +80,11 @@ I've been curating, testing, and refining prompts since the GPT-3 era. Here's wh
 || 💰 **Salary Playbook Gist** | https://gist.github.com/ruca-radio/040ba9f12fe811fa1cd9b1b685529612 |
 || ⚡ **Role Prompting Gist** | https://gist.github.com/ruca-radio/d035650bc27a9b1766a13d0918b325a2 |
 || 📊 **n8n Insights Gist** | https://gist.github.com/ruca-radio/f2da9aa692968d777985eb95d461a25d |
-|| 🔄 **n8n Launch Promo Gist (NEW)** | https://gist.github.com/ruca-radio/3a16d6086e5c2353626b38f06c50522d |
-|| 📦 **Bundle Launch Promo Gist (NEW)** | https://gist.github.com/ruca-radio/979c512b10c90b24c288a5e5ecb6d390 |
+|||| 🔄 **n8n Launch Promo Gist** | https://gist.github.com/ruca-radio/3a16d6086e5c2353626b38f06c50522d |
+|||| 🧠 **AI Agent Orchestrator Gist (NEW)** | https://gist.github.com/ruca-radio/fdde6394da800d8707f27b527d074556 |
+||| 📦 **Bundle Launch Promo Gist (NEW)** | https://gist.github.com/ruca-radio/979c512b10c90b24c288a5e5ecb6d390 |
+||| 📊 **n8n Data Insights Gist (NEW May 30)** | https://gist.github.com/ruca-radio/2ffe10e8b3301f6dcfbde8aaaf454290 |
+||| 💰 **Bundle vs Individual Gist (NEW May 30)** | https://gist.github.com/ruca-radio/b0da69259243d071b14258b07fbdab38 |
 || 🐦 **X/Twitter** | https://x.com/StudioDDx |
 
 ---
