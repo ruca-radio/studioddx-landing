@@ -150,4 +150,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <!-- New gist May 30 — 7 ChatGPT Personas that Changed How I Work -->
+  <url>
+    <loc>https://gist.github.com/ruca-radio/3049b405c11f73ae3028a2cc401b556e</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- New gist May 30 — n8n Auto-Refund Handler Tip -->
+  <url>
+    <loc>https://gist.github.com/ruca-radio/e5ccf8777efd488e83210fa313d54f6a</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
