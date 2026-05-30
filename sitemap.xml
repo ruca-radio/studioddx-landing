@@ -96,6 +96,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <!-- New gist May 30 — n8n Launch Promo -->
+  <url>
+    <loc>https://gist.github.com/ruca-radio/3a16d6086e5c2353626b38f06c50522d</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
   <!-- New gist May 31 -->
   <url>
     <loc>https://gist.github.com/ruca-radio/00c1aada8b42c7331a338f84bb56965a</loc>
