@@ -144,4 +144,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <!-- New gist May 30 — Bundle Deal Comparison (BUNDLE50) -->
+  <url>
+    <loc>https://gist.github.com/ruca-radio/1fe5fdd67dba9d57fc9c5746c450d0e6</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
